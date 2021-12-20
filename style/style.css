@@ -1,0 +1,54 @@
+body {		
+	background-image: url(images/carbon.png);
+	background-size: cover;
+
+}
+input {
+	color: white;
+	text-indent: 0.5em;
+	font-size: 25px;
+	background: black;
+	border-radius: 70px;
+	height: 50px;
+	width: 500px;
+	position: absolute;
+	bottom: 250px;
+	right: 380px;
+}
+input:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+#google {
+	color: white;
+	position: absolute;
+	bottom: 250px;
+	right: 423px;
+	font-size: 100px;
+}
+#em {
+	color: whitesmoke;
+}
+#designed {
+	color: grey;
+	font-size: 15px;
+	position: absolute;
+	bottom: 223px;
+	right: 600px;
+}
+#youtube {
+	position: absolute;
+	bottom: 500px;
+	right: 80px;
+}
+#gmail {
+	position: absolute;
+	bottom: 503px;
+	right: 20px;
+}
+#designed:hover {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
